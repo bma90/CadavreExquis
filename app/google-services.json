@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906163209467",
+    "firebase_url": "https://cadavre-exquis-5d957.firebaseio.com",
+    "project_id": "cadavre-exquis-5d957",
+    "storage_bucket": "cadavre-exquis-5d957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906163209467:android:837647be05c83d7a",
+        "android_client_info": {
+          "package_name": "com.bma.gon.cadavreexquis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906163209467-237vn8g79fm2sai2v5pr9lm82qg9upp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bma.gon.cadavreexquis",
+            "certificate_hash": "8e1e854d9ff1ce3a0e6faa1d4afbff93423b21a2"
+          }
+        },
+        {
+          "client_id": "906163209467-dkfgcsrsk03jeudu5v17fbku5mlm7jgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RD90-9gQk7oZjalZk_X2GJha6PgZtLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906163209467-dkfgcsrsk03jeudu5v17fbku5mlm7jgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

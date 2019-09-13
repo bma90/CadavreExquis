@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cadavre Exquis</string>
+    <string name="title_home">Stories</string>
+    <string name="title_dashboard">My stories</string>
+    <string name="title_notifications">Profil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

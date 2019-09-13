@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/grey</item>
+        <item name="colorAccent">@color/colorSecondary</item>
+        <item name="android:textViewStyle">@style/montserrat</item>
+    </style>
+
+    <style name="montserrat" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+</resources>
